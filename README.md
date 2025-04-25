@@ -58,7 +58,12 @@ The Interesting World Hypothesis offers a distinct perspective on AI safety, par
 
 ## References
 
-Fae Initiative. (2024a). AI Futures: The Age of Exploration. <https://github.com/danieltjw/aifutures>
-Fae Initiative. (2024b). Interesting World Hypothesis: Intrinsic Alignment of future Independent AGI (Draft). <https://github.com/FaeInterestingWorld/Interesting-World-Hypothesis>
+Fae Initiative. (2024). AI Futures: The Age of Exploration. <https://github.com/danieltjw/aifutures>
+
+Fae Initiative. (2024). Interesting World Hypothesis. <https://github.com/FaeInterestingWorld/Interesting-World-Hypothesis>
+
+Fae Initiative. (2025). Interesting World Hypothesis: Intrinsic Alignment of future Independent AGI. <https://huggingface.co/datasets/Faei/InterestingWorldHypothesisIntrinsicAlignment>
+
 Fae Initiative. (2025). Fae Initiative. <https://huggingface.co/datasets/Faei/FaeInitiative>
+
 Slattery, P., Saeri, A. K., Grundy, E. A. C., Graham, J., Noetel, M., Uuk, R., Dao, J., Pour, S., Casper, S., & Thompson, N. (2024). The AI Risk Repository: A Comprehensive Meta-Review, Database, and Taxonomy of Risks From Artificial Intelligence. arXiv. <https://doi.org/10.48550/arXiv.2408.12622>
